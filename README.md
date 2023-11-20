@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on my PhD (robotics, vision, control).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=remi-tortue&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remi-tortue&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=remi-tortue&theme=solarized_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remi-tortue&theme=solarized_dark&utcOffset=8)
