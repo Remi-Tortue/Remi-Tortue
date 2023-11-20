@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on my PhD (robotics, vision, control).
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=remi-tortue&theme=solarized_dark)
