@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=remi-tortue&theme=solarized_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remi-tortue&theme=solarized_dark&utcOffset=1)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=remi-tortue)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=remi-tortue&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
